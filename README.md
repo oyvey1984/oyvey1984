@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!  👋 My name is Ayrat. Welcome! :computer:
 
 <!--
 **oyvey1984/oyvey1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
